@@ -1,0 +1,17 @@
+item {
+  id: 1
+  name: 'shuttle'
+}
+
+item {
+  id: 2
+  name: 'claw_closed'
+}
+
+item {
+  id: 3
+  name: 'claw_open'
+}
+
+
+
